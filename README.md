@@ -18,8 +18,8 @@
 ```c
 struct Nors {
     char *fullname = "Nasroallah El Idrissi";
-    int age = 23;
-    char *languages[6] = {"Shell", "C", "C++", "Python", "JavaScript", 0};
+    int age = 24;
+    char *languages[5] = {"Javascript/Typescript", "Python", "C/C++", "Shell", 0};
     char *focus_areas[3] = {"Backend Development", "Systems Programming", "Reverse Engineering"};
     char *fun_fact = "Everything is either a 1 or a 0.";
 };
